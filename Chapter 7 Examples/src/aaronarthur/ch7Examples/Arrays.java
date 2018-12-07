@@ -1,5 +1,7 @@
 package aaronarthur.ch7Examples;
 
+// Aaron Arthur 12/18 Array of favorite games
+
 public class Arrays {
 
 	public static void main(String[] args) {
